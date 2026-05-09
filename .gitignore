@@ -1,0 +1,27 @@
+# Секретні файли — НІКОЛИ не завантажувати на GitHub
+.env
+google_credentials.json
+google_credentials.json.json
+
+# Бази даних
+*.db
+*.sqlite
+
+# Папки клієнтів
+clients.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+
+# Логи
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini

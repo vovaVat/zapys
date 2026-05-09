@@ -1,0 +1,315 @@
+2026-04-05 18:48:10 | INFO | apscheduler.scheduler | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-05 18:48:10 | INFO | apscheduler.scheduler | Added job "send_reminders" to job store "default"
+2026-04-05 18:48:10 | INFO | apscheduler.scheduler | Scheduler started
+2026-04-05 18:48:10 | INFO | __main__ | ⏰ Планувальник нагадувань запущено
+2026-04-05 18:48:10 | INFO | __main__ | 🔄 Запуск polling...
+2026-04-05 18:48:10 | INFO | database | ✅ База данных инициализирована
+2026-04-05 18:48:10 | INFO | __main__ | ✅ База даних готова
+2026-04-05 18:48:10 | INFO | __main__ | 🤖 Бот Егор - Мастер по ресницам запущено!
+2026-04-05 18:48:10 | INFO | aiogram.dispatcher | Start polling
+2026-04-05 18:48:10 | INFO | aiogram.dispatcher | Run polling for bot @hi_men_bot id=8632257598 - 'Записи'
+2026-04-05 18:49:02 | INFO | apscheduler.scheduler | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-05 18:49:02 | INFO | apscheduler.scheduler | Added job "send_reminders" to job store "default"
+2026-04-05 18:49:02 | INFO | apscheduler.scheduler | Scheduler started
+2026-04-05 18:49:02 | INFO | __main__ | ⏰ Планувальник нагадувань запущено
+2026-04-05 18:49:02 | INFO | __main__ | 🔄 Запуск polling...
+2026-04-05 18:49:02 | INFO | database | ✅ База данных инициализирована
+2026-04-05 18:49:02 | INFO | __main__ | ✅ База даних готова
+2026-04-05 18:49:02 | INFO | __main__ | 🤖 Бот Егор - Мастер по ресницам запущено!
+2026-04-05 18:49:02 | INFO | aiogram.dispatcher | Start polling
+2026-04-05 18:49:02 | INFO | aiogram.dispatcher | Run polling for bot @hi_men_bot id=8632257598 - 'Записи'
+2026-04-05 18:49:07 | INFO | database | ✅ Демо-данные добавлены: 90 слотов расписания
+2026-04-05 18:49:07 | INFO | aiogram.event | Update id=944196573 is handled. Duration 158 ms by bot id=8632257598
+2026-04-05 18:49:10 | INFO | database | ✅ Демо-данные добавлены: 90 слотов расписания
+2026-04-05 18:49:11 | INFO | aiogram.event | Update id=944196574 is handled. Duration 76 ms by bot id=8632257598
+2026-04-05 18:49:30 | INFO | aiogram.event | Update id=944196575 is handled. Duration 70 ms by bot id=8632257598
+2026-04-05 18:49:33 | INFO | aiogram.event | Update id=944196576 is handled. Duration 65 ms by bot id=8632257598
+2026-04-05 18:49:49 | INFO | aiogram.event | Update id=944196577 is handled. Duration 74 ms by bot id=8632257598
+2026-04-05 18:49:54 | INFO | aiogram.event | Update id=944196578 is handled. Duration 77 ms by bot id=8632257598
+2026-04-05 18:49:55 | INFO | aiogram.event | Update id=944196579 is handled. Duration 59 ms by bot id=8632257598
+2026-04-05 18:49:57 | INFO | aiogram.event | Update id=944196580 is handled. Duration 91 ms by bot id=8632257598
+2026-04-05 18:49:59 | INFO | aiogram.event | Update id=944196581 is handled. Duration 125 ms by bot id=8632257598
+2026-04-05 18:50:03 | INFO | aiogram.event | Update id=944196582 is handled. Duration 200 ms by bot id=8632257598
+2026-04-05 18:50:06 | INFO | aiogram.event | Update id=944196583 is handled. Duration 118 ms by bot id=8632257598
+2026-04-05 18:50:10 | INFO | aiogram.event | Update id=944196584 is handled. Duration 81 ms by bot id=8632257598
+2026-04-05 18:50:18 | INFO | aiogram.event | Update id=944196585 is handled. Duration 63 ms by bot id=8632257598
+2026-04-05 18:50:25 | INFO | aiogram.event | Update id=944196586 is handled. Duration 356 ms by bot id=8632257598
+2026-04-05 18:50:38 | INFO | aiogram.event | Update id=944196587 is handled. Duration 75 ms by bot id=8632257598
+2026-04-05 18:50:41 | INFO | aiogram.event | Update id=944196588 is handled. Duration 65 ms by bot id=8632257598
+2026-04-05 18:50:54 | INFO | aiogram.event | Update id=944196589 is handled. Duration 218 ms by bot id=8632257598
+2026-04-05 18:50:56 | INFO | aiogram.event | Update id=944196590 is handled. Duration 160 ms by bot id=8632257598
+2026-04-05 18:51:00 | INFO | aiogram.event | Update id=944196591 is handled. Duration 76 ms by bot id=8632257598
+2026-04-05 18:51:03 | INFO | aiogram.event | Update id=944196592 is handled. Duration 73 ms by bot id=8632257598
+2026-04-05 18:51:05 | INFO | aiogram.event | Update id=944196593 is handled. Duration 65 ms by bot id=8632257598
+2026-04-05 18:51:07 | INFO | aiogram.event | Update id=944196594 is handled. Duration 150 ms by bot id=8632257598
+2026-04-05 18:51:08 | INFO | aiogram.event | Update id=944196595 is handled. Duration 248 ms by bot id=8632257598
+2026-04-05 18:51:20 | INFO | aiogram.event | Update id=944196596 is handled. Duration 66 ms by bot id=8632257598
+2026-04-05 18:51:21 | INFO | aiogram.event | Update id=944196597 is handled. Duration 83 ms by bot id=8632257598
+2026-04-05 18:51:22 | INFO | aiogram.event | Update id=944196598 is handled. Duration 178 ms by bot id=8632257598
+2026-04-05 18:51:23 | INFO | aiogram.event | Update id=944196599 is handled. Duration 91 ms by bot id=8632257598
+2026-04-05 20:36:45 | INFO | apscheduler.scheduler | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-05 20:36:45 | INFO | apscheduler.scheduler | Added job "send_reminders" to job store "default"
+2026-04-05 20:36:45 | INFO | apscheduler.scheduler | Scheduler started
+2026-04-05 20:36:45 | INFO | __main__ | ⏰ Планувальник нагадувань запущено
+2026-04-05 20:36:45 | INFO | __main__ | 🔄 Запуск polling...
+2026-04-05 20:36:45 | INFO | database | ✅ База данных инициализирована
+2026-04-05 20:36:45 | INFO | __main__ | ✅ База даних готова
+2026-04-05 20:36:45 | INFO | __main__ | 🤖 Бот Егор - Мастер по ресницам запущено!
+2026-04-05 20:36:45 | INFO | aiogram.dispatcher | Start polling
+2026-04-05 20:36:45 | INFO | aiogram.dispatcher | Run polling for bot @hi_men_bot id=8632257598 - 'Записи'
+2026-04-05 20:36:46 | INFO | aiogram.event | Update id=944196600 is handled. Duration 158 ms by bot id=8632257598
+2026-04-05 20:36:53 | INFO | aiogram.event | Update id=944196601 is handled. Duration 192 ms by bot id=8632257598
+2026-04-05 20:37:04 | INFO | aiogram.event | Update id=944196602 is handled. Duration 63 ms by bot id=8632257598
+2026-04-05 20:37:45 | INFO | aiogram.event | Update id=944196603 is handled. Duration 72 ms by bot id=8632257598
+2026-04-05 20:37:49 | INFO | aiogram.event | Update id=944196604 is handled. Duration 77 ms by bot id=8632257598
+2026-04-05 20:37:59 | INFO | aiogram.event | Update id=944196605 is handled. Duration 75 ms by bot id=8632257598
+2026-04-05 20:38:05 | INFO | aiogram.event | Update id=944196606 is handled. Duration 123 ms by bot id=8632257598
+2026-04-05 20:38:12 | INFO | aiogram.event | Update id=944196607 is handled. Duration 122 ms by bot id=8632257598
+2026-04-05 20:38:23 | INFO | aiogram.event | Update id=944196608 is handled. Duration 114 ms by bot id=8632257598
+2026-04-05 20:38:30 | INFO | aiogram.event | Update id=944196609 is handled. Duration 89 ms by bot id=8632257598
+2026-04-05 20:38:47 | INFO | aiogram.event | Update id=944196610 is handled. Duration 86 ms by bot id=8632257598
+2026-04-05 20:38:54 | INFO | aiogram.event | Update id=944196611 is handled. Duration 530 ms by bot id=8632257598
+2026-04-05 20:39:09 | INFO | aiogram.event | Update id=944196612 is handled. Duration 65 ms by bot id=8632257598
+2026-04-05 20:39:22 | INFO | aiogram.event | Update id=944196613 is handled. Duration 74 ms by bot id=8632257598
+2026-04-05 20:39:34 | INFO | aiogram.event | Update id=944196614 is handled. Duration 67 ms by bot id=8632257598
+2026-04-05 20:39:45 | INFO | aiogram.event | Update id=944196615 is handled. Duration 64 ms by bot id=8632257598
+2026-04-05 20:41:11 | INFO | aiogram.event | Update id=944196616 is handled. Duration 71 ms by bot id=8632257598
+2026-04-05 20:41:15 | INFO | aiogram.event | Update id=944196617 is handled. Duration 278 ms by bot id=8632257598
+2026-04-05 20:41:16 | INFO | aiogram.event | Update id=944196618 is handled. Duration 126 ms by bot id=8632257598
+2026-04-10 11:43:22 | INFO | apscheduler.scheduler | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-10 11:43:22 | INFO | apscheduler.scheduler | Added job "send_reminders" to job store "default"
+2026-04-10 11:43:22 | INFO | apscheduler.scheduler | Scheduler started
+2026-04-10 11:43:22 | INFO | __main__ | ⏰ Планувальник нагадувань запущено
+2026-04-10 11:43:22 | INFO | __main__ | 🔄 Запуск polling...
+2026-04-10 11:43:22 | INFO | database | ✅ База данных инициализирована
+2026-04-10 11:43:22 | INFO | __main__ | ✅ База даних готова
+2026-04-10 11:43:22 | WARNING | __main__ | Не вдалося повідомити майстра про запуск: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [Temporary failure in name resolution]
+2026-04-10 11:43:22 | INFO | __main__ | 🤖 Бот Егор - Мастер по ресницам запущено!
+2026-04-10 11:43:22 | INFO | aiogram.dispatcher | Start polling
+2026-04-10 11:43:22 | INFO | aiogram.dispatcher | Polling stopped
+2026-04-10 11:43:22 | INFO | __main__ | 🛑 Бот зупинено
+2026-04-10 11:43:23 | INFO | __main__ | 👋 Сесію закрито
+2026-04-10 11:43:23 | INFO | apscheduler.scheduler | Scheduler has been shut down
+2026-04-10 11:44:48 | INFO | apscheduler.scheduler | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-10 11:44:48 | INFO | apscheduler.scheduler | Added job "send_reminders" to job store "default"
+2026-04-10 11:44:48 | INFO | apscheduler.scheduler | Scheduler started
+2026-04-10 11:44:48 | INFO | __main__ | ⏰ Планувальник нагадувань запущено
+2026-04-10 11:44:48 | INFO | __main__ | 🔄 Запуск polling...
+2026-04-10 11:44:48 | INFO | database | ✅ База данных инициализирована
+2026-04-10 11:44:48 | INFO | __main__ | ✅ База даних готова
+2026-04-10 11:44:48 | INFO | __main__ | 🤖 Бот Егор - Мастер по ресницам запущено!
+2026-04-10 11:44:48 | INFO | aiogram.dispatcher | Start polling
+2026-04-10 11:44:48 | INFO | aiogram.dispatcher | Run polling for bot @hi_men_bot id=8632257598 - 'Записи'
+2026-04-10 11:45:01 | INFO | database | ✅ Демо-данные добавлены: 90 слотов расписания
+2026-04-10 11:45:01 | INFO | aiogram.event | Update id=944196619 is handled. Duration 167 ms by bot id=8632257598
+2026-04-10 11:45:11 | INFO | aiogram.event | Update id=944196620 is handled. Duration 88 ms by bot id=8632257598
+2026-04-10 11:45:16 | INFO | aiogram.event | Update id=944196621 is handled. Duration 64 ms by bot id=8632257598
+2026-04-10 11:45:25 | INFO | aiogram.event | Update id=944196622 is handled. Duration 73 ms by bot id=8632257598
+2026-04-10 11:45:37 | INFO | aiogram.event | Update id=944196623 is handled. Duration 98 ms by bot id=8632257598
+2026-04-10 11:45:43 | INFO | aiogram.event | Update id=944196624 is handled. Duration 67 ms by bot id=8632257598
+2026-04-10 11:45:49 | INFO | aiogram.event | Update id=944196625 is handled. Duration 184 ms by bot id=8632257598
+2026-04-10 11:45:51 | INFO | aiogram.event | Update id=944196626 is handled. Duration 72 ms by bot id=8632257598
+2026-04-10 11:55:44 | INFO | aiogram.event | Update id=944196627 is handled. Duration 144 ms by bot id=8632257598
+2026-04-10 11:55:49 | INFO | aiogram.event | Update id=944196628 is handled. Duration 123 ms by bot id=8632257598
+2026-04-10 11:55:51 | INFO | aiogram.event | Update id=944196629 is handled. Duration 130 ms by bot id=8632257598
+2026-04-10 11:55:53 | INFO | aiogram.event | Update id=944196630 is handled. Duration 110 ms by bot id=8632257598
+2026-04-10 11:55:58 | INFO | aiogram.event | Update id=944196631 is handled. Duration 186 ms by bot id=8632257598
+2026-04-10 11:55:59 | INFO | aiogram.event | Update id=944196632 is handled. Duration 116 ms by bot id=8632257598
+2026-04-10 11:56:00 | INFO | aiogram.event | Update id=944196633 is handled. Duration 349 ms by bot id=8632257598
+2026-04-10 11:56:15 | INFO | aiogram.event | Update id=944196634 is handled. Duration 70 ms by bot id=8632257598
+2026-04-10 11:57:00 | INFO | aiogram.event | Update id=944196635 is handled. Duration 65 ms by bot id=8632257598
+2026-04-10 11:57:01 | INFO | aiogram.event | Update id=944196636 is handled. Duration 95 ms by bot id=8632257598
+2026-04-10 12:10:15 | INFO | aiogram.event | Update id=944196637 is handled. Duration 73 ms by bot id=8632257598
+2026-04-10 12:10:20 | INFO | aiogram.event | Update id=944196638 is handled. Duration 264 ms by bot id=8632257598
+2026-04-10 12:10:22 | INFO | aiogram.event | Update id=944196639 is handled. Duration 296 ms by bot id=8632257598
+2026-04-10 12:10:24 | INFO | aiogram.event | Update id=944196640 is handled. Duration 71 ms by bot id=8632257598
+2026-04-10 12:10:27 | INFO | aiogram.event | Update id=944196641 is handled. Duration 69 ms by bot id=8632257598
+2026-04-10 12:10:29 | INFO | aiogram.event | Update id=944196642 is handled. Duration 125 ms by bot id=8632257598
+2026-04-10 12:10:30 | INFO | aiogram.event | Update id=944196643 is handled. Duration 121 ms by bot id=8632257598
+2026-04-10 12:10:32 | INFO | aiogram.event | Update id=944196644 is handled. Duration 134 ms by bot id=8632257598
+2026-04-10 12:10:33 | INFO | aiogram.event | Update id=944196645 is handled. Duration 239 ms by bot id=8632257598
+2026-04-10 12:10:36 | INFO | aiogram.event | Update id=944196646 is handled. Duration 127 ms by bot id=8632257598
+2026-04-10 12:10:45 | INFO | aiogram.event | Update id=944196647 is handled. Duration 321 ms by bot id=8632257598
+2026-04-10 12:11:08 | INFO | aiogram.event | Update id=944196648 is handled. Duration 80 ms by bot id=8632257598
+2026-04-12 18:00:15 | INFO | apscheduler.scheduler | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-12 18:00:15 | INFO | apscheduler.scheduler | Added job "send_reminders" to job store "default"
+2026-04-12 18:00:15 | INFO | apscheduler.scheduler | Scheduler started
+2026-04-12 18:00:15 | INFO | __main__ | ⏰ Планувальник нагадувань запущено
+2026-04-12 18:00:15 | INFO | __main__ | 🔄 Запуск polling...
+2026-04-12 18:00:15 | INFO | database | ✅ База данных инициализирована
+2026-04-12 18:00:15 | INFO | __main__ | ✅ База даних готова
+2026-04-12 18:00:15 | INFO | __main__ | ℹ️ Google Sheets не налаштовано (GOOGLE_SHEET_ID порожній або credentials не знайдено)
+2026-04-12 18:00:16 | INFO | __main__ | 🤖 Бот Егор - Мастер по ресницам запущено! Google Sheets: вимкнено
+2026-04-12 18:00:16 | INFO | aiogram.dispatcher | Start polling
+2026-04-12 18:00:16 | INFO | aiogram.dispatcher | Run polling for bot @hi_men_bot id=8632257598 - 'Записи'
+2026-04-12 18:00:59 | INFO | aiogram.dispatcher | Polling stopped
+2026-04-12 18:00:59 | INFO | __main__ | 🛑 Бот зупинено
+2026-04-12 18:00:59 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-04-12 18:00:59 | WARNING | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8632257598)
+2026-04-12 18:00:59 | INFO | __main__ | 👋 Сесію закрито
+2026-04-12 18:00:59 | INFO | apscheduler.scheduler | Scheduler has been shut down
+2026-04-12 18:00:59 | INFO | aiogram.dispatcher | Polling stopped for bot @hi_men_bot id=8632257598 - 'Записи'
+2026-04-12 18:03:12 | INFO | apscheduler.scheduler | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-12 18:03:12 | INFO | apscheduler.scheduler | Added job "send_reminders" to job store "default"
+2026-04-12 18:03:12 | INFO | apscheduler.scheduler | Scheduler started
+2026-04-12 18:03:12 | INFO | __main__ | ⏰ Планувальник нагадувань запущено
+2026-04-12 18:03:12 | INFO | __main__ | 🔄 Запуск polling...
+2026-04-12 18:03:12 | INFO | database | ✅ База данных инициализирована
+2026-04-12 18:03:12 | INFO | __main__ | ✅ База даних готова
+2026-04-12 18:03:14 | WARNING | utils.google_sheets | ⚠️ Google Sheets не підключено: 
+2026-04-12 18:03:14 | INFO | __main__ | 🤖 Бот Егор - Мастер по ресницам запущено! Google Sheets: ⚠️ помилка підключення
+2026-04-12 18:03:14 | INFO | aiogram.dispatcher | Start polling
+2026-04-12 18:03:14 | INFO | aiogram.dispatcher | Run polling for bot @hi_men_bot id=8632257598 - 'Записи'
+2026-04-12 18:04:47 | INFO | aiogram.dispatcher | Polling stopped
+2026-04-12 18:04:47 | INFO | __main__ | 🛑 Бот зупинено
+2026-04-12 18:04:47 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-04-12 18:04:47 | WARNING | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8632257598)
+2026-04-12 18:04:48 | INFO | __main__ | 👋 Сесію закрито
+2026-04-12 18:04:48 | INFO | apscheduler.scheduler | Scheduler has been shut down
+2026-04-12 18:04:48 | INFO | aiogram.dispatcher | Polling stopped for bot @hi_men_bot id=8632257598 - 'Записи'
+2026-04-12 18:06:02 | INFO | apscheduler.scheduler | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-12 18:06:02 | INFO | apscheduler.scheduler | Added job "send_reminders" to job store "default"
+2026-04-12 18:06:02 | INFO | apscheduler.scheduler | Scheduler started
+2026-04-12 18:06:02 | INFO | __main__ | ⏰ Планувальник нагадувань запущено
+2026-04-12 18:06:02 | INFO | __main__ | 🔄 Запуск polling...
+2026-04-12 18:06:02 | INFO | database | ✅ База данных инициализирована
+2026-04-12 18:06:02 | INFO | __main__ | ✅ База даних готова
+2026-04-12 18:06:07 | INFO | utils.google_sheets | ✅ Аркуш 'Записи' створено
+2026-04-12 18:06:07 | INFO | utils.google_sheets | ✅ Google Sheets підключено успішно
+2026-04-12 18:06:11 | INFO | utils.google_sheets | [Google Sheets] Синхронізовано 3 записів
+2026-04-12 18:06:11 | INFO | __main__ | 🤖 Бот Егор - Мастер по ресницам запущено! Google Sheets: ✅ підключено, синхронізовано 3 записів
+2026-04-12 18:06:11 | INFO | aiogram.dispatcher | Start polling
+2026-04-12 18:06:12 | INFO | aiogram.dispatcher | Run polling for bot @hi_men_bot id=8632257598 - 'Записи'
+2026-04-12 18:06:56 | INFO | utils.google_sheets | [Google Sheets] Синхронізовано 3 записів
+2026-04-12 18:06:56 | INFO | aiogram.event | Update id=944196649 is handled. Duration 4575 ms by bot id=8632257598
+2026-04-12 18:07:26 | INFO | aiogram.event | Update id=944196650 is handled. Duration 73 ms by bot id=8632257598
+2026-04-12 18:07:37 | INFO | aiogram.event | Update id=944196651 is handled. Duration 478 ms by bot id=8632257598
+2026-04-12 18:08:02 | INFO | aiogram.event | Update id=944196652 is handled. Duration 65 ms by bot id=8632257598
+2026-04-12 18:08:04 | INFO | aiogram.event | Update id=944196653 is handled. Duration 73 ms by bot id=8632257598
+2026-04-12 18:08:06 | INFO | aiogram.event | Update id=944196654 is handled. Duration 109 ms by bot id=8632257598
+2026-04-12 18:08:09 | INFO | aiogram.event | Update id=944196655 is handled. Duration 239 ms by bot id=8632257598
+2026-04-12 18:08:12 | INFO | aiogram.event | Update id=944196656 is handled. Duration 109 ms by bot id=8632257598
+2026-04-12 18:08:14 | INFO | aiogram.event | Update id=944196657 is handled. Duration 171 ms by bot id=8632257598
+2026-04-12 18:08:16 | INFO | aiogram.event | Update id=944196658 is handled. Duration 115 ms by bot id=8632257598
+2026-04-12 18:08:19 | INFO | utils.google_sheets | [Google Sheets] Запис #5 додано (рядок 5)
+2026-04-12 18:08:19 | INFO | aiogram.event | Update id=944196659 is handled. Duration 1920 ms by bot id=8632257598
+2026-04-12 18:08:28 | INFO | aiogram.event | Update id=944196660 is handled. Duration 61 ms by bot id=8632257598
+2026-04-12 18:08:30 | INFO | aiogram.event | Update id=944196661 is handled. Duration 316 ms by bot id=8632257598
+2026-04-12 20:25:45 | INFO | apscheduler.scheduler | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-12 20:25:45 | INFO | apscheduler.scheduler | Added job "send_reminders" to job store "default"
+2026-04-12 20:25:45 | INFO | apscheduler.scheduler | Scheduler started
+2026-04-12 20:25:45 | INFO | __main__ | ⏰ Планувальник нагадувань запущено
+2026-04-12 20:25:45 | INFO | __main__ | 🔄 Запуск polling...
+2026-04-12 20:25:45 | INFO | database | ✅ База данных инициализирована
+2026-04-12 20:25:45 | INFO | __main__ | ✅ База даних готова
+2026-04-12 20:25:49 | INFO | utils.google_sheets | ✅ Google Sheets підключено успішно
+2026-04-12 20:25:54 | INFO | utils.google_sheets | [Google Sheets] Синхронізовано 4 записів
+2026-04-12 20:25:54 | INFO | __main__ | 🤖 Бот Егор - Мастер по ресницам запущено! Google Sheets: ✅ підключено, синхронізовано 4 записів
+2026-04-12 20:25:54 | INFO | aiogram.dispatcher | Start polling
+2026-04-12 20:25:54 | INFO | aiogram.dispatcher | Run polling for bot @hi_men_bot id=8632257598 - 'Записи'
+2026-04-12 20:25:55 | INFO | aiogram.event | Update id=944196662 is handled. Duration 165 ms by bot id=8632257598
+2026-04-12 20:26:43 | INFO | aiogram.event | Update id=944196663 is handled. Duration 115 ms by bot id=8632257598
+2026-04-12 20:26:44 | INFO | aiogram.event | Update id=944196664 is handled. Duration 86 ms by bot id=8632257598
+2026-04-12 20:26:44 | INFO | aiogram.event | Update id=944196665 is handled. Duration 77 ms by bot id=8632257598
+2026-04-12 20:26:45 | INFO | aiogram.event | Update id=944196666 is handled. Duration 75 ms by bot id=8632257598
+2026-04-12 20:26:49 | INFO | aiogram.event | Update id=944196667 is handled. Duration 72 ms by bot id=8632257598
+2026-04-12 20:26:51 | INFO | aiogram.event | Update id=944196668 is handled. Duration 65 ms by bot id=8632257598
+2026-04-12 20:26:52 | INFO | aiogram.event | Update id=944196669 is handled. Duration 65 ms by bot id=8632257598
+2026-04-12 20:26:52 | INFO | aiogram.event | Update id=944196670 is handled. Duration 93 ms by bot id=8632257598
+2026-04-12 20:26:52 | INFO | aiogram.event | Update id=944196671 is handled. Duration 94 ms by bot id=8632257598
+2026-04-12 20:26:53 | INFO | aiogram.event | Update id=944196672 is handled. Duration 64 ms by bot id=8632257598
+2026-04-12 20:26:53 | INFO | aiogram.event | Update id=944196673 is handled. Duration 67 ms by bot id=8632257598
+2026-04-12 20:26:54 | INFO | aiogram.event | Update id=944196674 is handled. Duration 64 ms by bot id=8632257598
+2026-04-12 20:26:54 | INFO | aiogram.event | Update id=944196675 is handled. Duration 61 ms by bot id=8632257598
+2026-04-12 20:26:54 | INFO | aiogram.event | Update id=944196676 is handled. Duration 63 ms by bot id=8632257598
+2026-04-12 20:26:55 | INFO | aiogram.event | Update id=944196677 is handled. Duration 68 ms by bot id=8632257598
+2026-04-12 20:26:55 | INFO | aiogram.event | Update id=944196678 is handled. Duration 63 ms by bot id=8632257598
+2026-04-12 20:26:55 | INFO | aiogram.event | Update id=944196679 is handled. Duration 63 ms by bot id=8632257598
+2026-04-12 20:26:56 | INFO | aiogram.event | Update id=944196680 is handled. Duration 63 ms by bot id=8632257598
+2026-04-12 20:26:56 | INFO | aiogram.event | Update id=944196681 is handled. Duration 68 ms by bot id=8632257598
+2026-04-12 21:04:00 | INFO | apscheduler.scheduler | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-12 21:04:00 | INFO | apscheduler.scheduler | Added job "send_reminders" to job store "default"
+2026-04-12 21:04:00 | INFO | apscheduler.scheduler | Scheduler started
+2026-04-12 21:04:00 | INFO | __main__ | ⏰ Планувальник нагадувань запущено
+2026-04-12 21:04:00 | INFO | __main__ | 🔄 Запуск polling...
+2026-04-12 21:04:00 | INFO | database | ✅ База данных инициализирована
+2026-04-12 21:04:00 | INFO | __main__ | ✅ База даних готова
+2026-04-12 21:04:05 | INFO | utils.google_sheets | ✅ Google Sheets підключено успішно
+2026-04-12 21:04:10 | INFO | utils.google_sheets | [Google Sheets] Синхронізовано 4 записів
+2026-04-12 21:04:11 | INFO | __main__ | 🤖 Бот Егор - Мастер по ресницам запущено! Google Sheets: ✅ підключено, синхронізовано 4 записів
+2026-04-12 21:04:11 | INFO | aiogram.dispatcher | Start polling
+2026-04-12 21:04:11 | INFO | aiogram.dispatcher | Run polling for bot @hi_men_bot id=8632257598 - 'Записи'
+2026-04-12 21:04:17 | INFO | aiogram.event | Update id=944196682 is handled. Duration 144 ms by bot id=8632257598
+2026-04-12 21:04:23 | INFO | aiogram.event | Update id=944196683 is handled. Duration 135 ms by bot id=8632257598
+2026-04-12 21:04:26 | INFO | aiogram.event | Update id=944196684 is handled. Duration 111 ms by bot id=8632257598
+2026-04-12 21:04:30 | INFO | aiogram.event | Update id=944196685 is handled. Duration 184 ms by bot id=8632257598
+2026-04-12 21:04:31 | INFO | aiogram.event | Update id=944196686 is handled. Duration 69 ms by bot id=8632257598
+2026-04-12 21:04:32 | INFO | aiogram.event | Update id=944196687 is handled. Duration 130 ms by bot id=8632257598
+2026-04-12 21:04:34 | INFO | aiogram.event | Update id=944196688 is handled. Duration 111 ms by bot id=8632257598
+2026-04-12 21:04:44 | INFO | aiogram.event | Update id=944196689 is handled. Duration 118 ms by bot id=8632257598
+2026-04-12 21:04:47 | INFO | aiogram.event | Update id=944196690 is handled. Duration 200 ms by bot id=8632257598
+2026-04-12 21:04:47 | INFO | aiogram.event | Update id=944196691 is handled. Duration 120 ms by bot id=8632257598
+2026-04-12 21:04:52 | INFO | utils.google_sheets | [Google Sheets] Запис #6 додано (рядок 6)
+2026-04-12 21:04:52 | INFO | aiogram.event | Update id=944196692 is handled. Duration 3370 ms by bot id=8632257598
+2026-04-12 21:04:54 | INFO | aiogram.event | Update id=944196693 is handled. Duration 67 ms by bot id=8632257598
+2026-04-12 21:05:00 | INFO | aiogram.event | Update id=944196694 is handled. Duration 502 ms by bot id=8632257598
+2026-04-12 21:05:05 | INFO | aiogram.event | Update id=944196695 is handled. Duration 91 ms by bot id=8632257598
+2026-04-12 21:05:14 | INFO | aiogram.event | Update id=944196696 is handled. Duration 122 ms by bot id=8632257598
+2026-04-12 21:05:19 | INFO | utils.google_sheets | [Google Sheets] Запис #3 → статус: ❌ Скасовано
+2026-04-12 21:05:19 | INFO | aiogram.event | Update id=944196697 is handled. Duration 3266 ms by bot id=8632257598
+2026-04-12 21:05:28 | INFO | aiogram.event | Update id=944196698 is handled. Duration 357 ms by bot id=8632257598
+2026-05-08 23:41:24 | INFO | apscheduler.scheduler | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-05-08 23:41:24 | INFO | apscheduler.scheduler | Added job "send_reminders" to job store "default"
+2026-05-08 23:41:24 | INFO | apscheduler.scheduler | Scheduler started
+2026-05-08 23:41:24 | INFO | __main__ | ⏰ Планувальник нагадувань запущено
+2026-05-08 23:41:24 | INFO | __main__ | 🔄 Запуск polling...
+2026-05-08 23:41:24 | INFO | database | ✅ База данных инициализирована
+2026-05-08 23:41:24 | INFO | __main__ | ✅ База даних готова
+2026-05-08 23:41:27 | INFO | utils.google_sheets | ✅ Google Sheets підключено успішно
+2026-05-08 23:41:32 | INFO | utils.google_sheets | [Google Sheets] Синхронізовано 4 записів
+2026-05-08 23:41:33 | INFO | __main__ | 🤖 Бот Егор - Мастер по ресницам запущено! Google Sheets: ✅ підключено, синхронізовано 4 записів
+2026-05-08 23:41:33 | INFO | aiogram.dispatcher | Start polling
+2026-05-08 23:41:33 | INFO | aiogram.dispatcher | Run polling for bot @hi_men_bot id=8632257598 - 'Записи'
+2026-05-08 23:41:34 | INFO | aiogram.event | Update id=944196709 is handled. Duration 157 ms by bot id=8632257598
+2026-05-08 23:41:38 | INFO | aiogram.event | Update id=944196710 is handled. Duration 131 ms by bot id=8632257598
+2026-05-08 23:41:41 | INFO | aiogram.event | Update id=944196711 is handled. Duration 194 ms by bot id=8632257598
+2026-05-08 23:41:57 | INFO | aiogram.event | Update id=944196712 is not handled. Duration 3 ms by bot id=8632257598
+2026-05-08 23:42:02 | INFO | aiogram.event | Update id=944196713 is handled. Duration 65 ms by bot id=8632257598
+2026-05-08 23:42:05 | INFO | aiogram.event | Update id=944196714 is handled. Duration 521 ms by bot id=8632257598
+2026-05-08 23:42:14 | INFO | aiogram.event | Update id=944196715 is handled. Duration 74 ms by bot id=8632257598
+2026-05-08 23:42:17 | INFO | aiogram.event | Update id=944196716 is handled. Duration 66 ms by bot id=8632257598
+2026-05-08 23:42:20 | INFO | aiogram.event | Update id=944196717 is handled. Duration 64 ms by bot id=8632257598
+2026-05-08 23:42:24 | INFO | aiogram.event | Update id=944196718 is handled. Duration 86 ms by bot id=8632257598
+2026-05-08 23:42:27 | INFO | aiogram.event | Update id=944196719 is handled. Duration 75 ms by bot id=8632257598
+2026-05-08 23:42:51 | INFO | aiogram.event | Update id=944196720 is handled. Duration 72 ms by bot id=8632257598
+2026-05-08 23:42:54 | INFO | aiogram.event | Update id=944196721 is handled. Duration 334 ms by bot id=8632257598
+2026-05-08 23:43:01 | INFO | aiogram.event | Update id=944196722 is handled. Duration 173 ms by bot id=8632257598
+2026-05-08 23:43:04 | INFO | aiogram.event | Update id=944196723 is handled. Duration 191 ms by bot id=8632257598
+2026-05-08 23:43:06 | INFO | aiogram.event | Update id=944196724 is handled. Duration 294 ms by bot id=8632257598
+2026-05-08 23:43:29 | INFO | aiogram.event | Update id=944196725 is handled. Duration 77 ms by bot id=8632257598
+2026-05-08 23:43:39 | INFO | aiogram.event | Update id=944196726 is handled. Duration 90 ms by bot id=8632257598
+2026-05-08 23:43:45 | INFO | aiogram.event | Update id=944196727 is handled. Duration 136 ms by bot id=8632257598
+2026-05-08 23:43:47 | INFO | aiogram.event | Update id=944196728 is handled. Duration 120 ms by bot id=8632257598
+2026-05-08 23:43:49 | INFO | aiogram.event | Update id=944196729 is handled. Duration 207 ms by bot id=8632257598
+2026-05-08 23:43:51 | INFO | aiogram.event | Update id=944196730 is handled. Duration 67 ms by bot id=8632257598
+2026-05-08 23:44:00 | INFO | aiogram.event | Update id=944196731 is handled. Duration 76 ms by bot id=8632257598
+2026-05-08 23:45:28 | INFO | aiogram.event | Update id=944196732 is handled. Duration 285 ms by bot id=8632257598
+2026-05-08 23:45:55 | INFO | aiogram.event | Update id=944196733 is handled. Duration 87 ms by bot id=8632257598
+2026-05-08 23:45:58 | INFO | aiogram.event | Update id=944196734 is handled. Duration 126 ms by bot id=8632257598
+2026-05-08 23:46:00 | INFO | aiogram.event | Update id=944196735 is handled. Duration 396 ms by bot id=8632257598
+2026-05-08 23:46:02 | INFO | aiogram.event | Update id=944196736 is handled. Duration 139 ms by bot id=8632257598
+2026-05-08 23:46:04 | INFO | aiogram.event | Update id=944196737 is handled. Duration 130 ms by bot id=8632257598
+2026-05-08 23:46:06 | INFO | aiogram.event | Update id=944196738 is handled. Duration 155 ms by bot id=8632257598
+2026-05-08 23:46:07 | INFO | aiogram.event | Update id=944196739 is handled. Duration 391 ms by bot id=8632257598
+2026-05-08 23:46:09 | INFO | aiogram.event | Update id=944196740 is handled. Duration 123 ms by bot id=8632257598
+2026-05-08 23:46:11 | INFO | aiogram.event | Update id=944196741 is handled. Duration 204 ms by bot id=8632257598
+2026-05-08 23:46:17 | INFO | aiogram.event | Update id=944196742 is handled. Duration 167 ms by bot id=8632257598
+2026-05-08 23:46:21 | INFO | aiogram.event | Update id=944196743 is handled. Duration 427 ms by bot id=8632257598
+2026-05-08 23:46:26 | INFO | aiogram.event | Update id=944196744 is handled. Duration 152 ms by bot id=8632257598
+2026-05-08 23:46:33 | INFO | utils.google_sheets | [Google Sheets] Запис #7 додано (рядок 6)
+2026-05-08 23:46:33 | INFO | aiogram.event | Update id=944196745 is handled. Duration 4054 ms by bot id=8632257598
+2026-05-08 23:46:34 | INFO | aiogram.event | Update id=944196746 is handled. Duration 79 ms by bot id=8632257598
+2026-05-08 23:46:38 | INFO | aiogram.event | Update id=944196747 is handled. Duration 129 ms by bot id=8632257598
+2026-05-08 23:46:40 | INFO | aiogram.event | Update id=944196748 is handled. Duration 362 ms by bot id=8632257598
+2026-05-08 23:46:46 | INFO | aiogram.event | Update id=944196749 is handled. Duration 325 ms by bot id=8632257598
+2026-05-08 23:46:46 | INFO | aiogram.event | Update id=944196750 is handled. Duration 76 ms by bot id=8632257598

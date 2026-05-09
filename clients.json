@@ -1,0 +1,20 @@
+{
+  "clients": [
+    {
+      "id": "salon_anna",
+      "name": "Chantl room",
+      "master_name": "Анна",
+      "bot_token": "8446091744:AAEA07WnzpaA2zkI2OE4UJI2J40_gUeoqeI",
+      "admin_id": 212121221,
+      "services": [
+        "Манікюр",
+        "нарощування",
+        "чистка"
+      ],
+      "folder": "C:\\Users\\Yegor\\OneDrive\\Рабочий стол\\bots\\salon_anna",
+      "created_at": "2026-04-15",
+      "paid_until": "2026-05-14",
+      "active": false
+    }
+  ]
+}
